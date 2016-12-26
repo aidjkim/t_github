@@ -6,3 +6,4 @@ console.log("Tell their world");
 console.log("Tell my world");
 console.log("Locally modified 2");
 console.log("Conflict Server modified and Locally modified");
+console.log("Modified at Server");

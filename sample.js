@@ -4,4 +4,4 @@ console.log("Hello GitHub");
 console.log("JavaScript");
 console.log("Tell their world");
 console.log("Tell my world");
-console.log("Locally modified");
+console.log("Locally modified 2");
